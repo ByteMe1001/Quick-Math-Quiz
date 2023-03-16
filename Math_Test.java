@@ -1,11 +1,3 @@
-// Name: Gabriel Ho Rui Jie
-// Student no.: 7900302
-// Tutorial Group: T04F
-// JDK: Version 1.8
-//
-// File name: GabrielHo_55_Lab_5.java
-// Declaration: This is my own work, and I have not passed my work to others
-
 import java.util.Random;
 import java.util.Scanner;
 
@@ -131,9 +123,7 @@ class Math_Test {
         else {
             System.out.printf("Your score %d/%d, well done%n", score, questionNo);
         }
-        
     }
-
 }
 
 
